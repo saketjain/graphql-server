@@ -1,0 +1,26 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "GraphQL Demo Server with JSON Store\u001b[D\u001b[C",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon --exec node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "express-graphql": "^0.6.6",
+    "graphql": "^0.10.3",
+    "humps": "^2.0.1",
+    "mongodb": "^2.1.18",
+    "pg": "^6.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "nodemon": "^1.9.2"
+  }
+}

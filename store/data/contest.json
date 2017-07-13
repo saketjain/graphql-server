@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "code": "react",
+    "title": "React Basics",
+    "description": "Learn React"
+  },
+  {
+    "id": "2",
+    "code": "graphql",
+    "title": "GraphQl Basics",
+    "description": "Learn GraphQL"
+  },
+  {
+    "id": "3",
+    "code": "rabbitmq",
+    "title": "RabbitMQ Basics",
+    "description": "Learn RabbitMQ"
+  }
+]
